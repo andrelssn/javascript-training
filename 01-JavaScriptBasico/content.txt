@@ -1,0 +1,13 @@
+aulas puladas que já tenho conhecimento
+
+- console.log;
+- comentários de código;
+- aplicar js no html;
+- váriaveis let e const;
+- var e let;
+- dados primitivos(string, number, boolean, undefined, null, etc);
+- operadores aritméticos(--, ++, etc);
+- alert (alerta), confirm (confirmação), prompt (campo digitavel);
+- POO
+- Math
+- Arrays e Funções
